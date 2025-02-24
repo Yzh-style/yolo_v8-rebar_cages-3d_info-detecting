@@ -1,7 +1,5 @@
 The model is undertruning and the model.pt file is larger than 100mb so they are not here
 
-![image](https://github.com/user-attachments/assets/66e765e9-3e8e-4b25-8a9a-0c4d3a8f8690)
-
 In the folder 'train_python_files/train_dataset creation' you can find the method about: 
   1.  transfering labelme format data file to yolo segment format
   2.  enlaging dataset to overcome overfitting
