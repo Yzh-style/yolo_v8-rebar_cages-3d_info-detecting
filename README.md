@@ -1,4 +1,4 @@
-The model is undertruning and the model.pt file is larger than 100mb so they are not here
+![image](https://github.com/user-attachments/assets/66e765e9-3e8e-4b25-8a9a-0c4d3a8f8690)The model is undertruning and the model.pt file is larger than 100mb so they are not here
 In the folder 'train_python_files/train_dataset creation' you can find the method about: 
   1.  transfering labelme format data file to yolo segment format
   2.  enlaging dataset to overcome overfitting
@@ -14,4 +14,5 @@ In the folder 'train_python_files/model_training_process' you can find the metho
 In the folder 'detect_python_files' you can find the method about:
   1. method about calculating vertical distance of objects in images
   2. count the objects in images
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f4d20d21-be6a-4cd2-b0dc-f1aad42fc159)
+
