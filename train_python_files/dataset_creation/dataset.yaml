@@ -1,0 +1,12 @@
+path: D:\Desktop\data_column
+train: images
+val: images
+test: 
+
+names:
+  0:L-R-22
+  1:L-R-20
+  2:T-R-10
+  3:B-R
+  4:Bend-R
+  5:column

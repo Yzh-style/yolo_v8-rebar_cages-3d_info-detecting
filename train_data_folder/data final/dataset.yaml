@@ -1,0 +1,13 @@
+path: D:\Desktop\data final\data final
+train: images
+val: images
+test: 
+
+names:
+  0:L-R-20
+  1:T-R-10
+  2:Bend-R
+  3:beam
+  4:L-R-22
+  5:B-R
+  6:column
