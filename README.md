@@ -1,4 +1,5 @@
 The model is undertruning and the model.pt file is larger than 100mb so they are not here
+Process of setting up Yolo envirenment  is required
 
 In the folder 'train_python_files/train_dataset creation' you can find the method about: 
   1.  transfering labelme format data file to yolo segment format
